@@ -1,2 +1,3 @@
 print("i'm sugwan")
-print("hi")
+a = 123
+print("내가 종관이다")
